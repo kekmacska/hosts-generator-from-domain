@@ -12,6 +12,4 @@ If you finished entering the domains, hit Enter. The program should run, and you
 0.0.0.0 domain2.com
 
 
-please note that this is my first project and i'm a very beginner, and i initially created this program for my purposes, thee reasons why i post it on github are, in order:
-1. I want to create an android application from it
-2. I thought why not share it to the public
+please note that this is my first project and i'm a very beginner, and i initially created this program for my purposes, and I thought why not share it to the public.
